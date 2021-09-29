@@ -3,3 +3,6 @@ archivo de prueba editado desde remoto
 
 esta linea es desde local
 
+
+edicion desde el ORIGINAL
+
